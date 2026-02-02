@@ -17,6 +17,10 @@ This project demonstrates a **C# Web API** integrated with **RapidAPI**, leverag
 
 ## Getting Started
 
-## 1: Ajdust the API Keys and Host for every API RAPID Call in the Services
+## 1: Ajdust the API Keys and Host for every API RAPID Call
+-in the Services folder
 
 ## 2: Run the App and call SwaggerUI to see and call different RAPID API Calls
+```bash
+-dotnet run 
+and after that call localhost/swagger to see the API Calls and test them
